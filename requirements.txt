@@ -1,5 +1,0 @@
-selenium
-opencv-python
-pytesseract
-keyboard
-pyautogui
