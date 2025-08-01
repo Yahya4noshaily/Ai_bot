@@ -1,0 +1,1 @@
+# applies AI trading logic
