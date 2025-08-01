@@ -1,4 +1,0 @@
-playwright
-opencv-python
-pyautogui
-numpy
